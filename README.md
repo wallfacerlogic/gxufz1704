@@ -1,5 +1,5 @@
 ﻿# 广西大学附属中学初1704班级网站GitHub仓库
 ## 如有Bug请到Issues提交，谢谢
 ## 网站网址：https://wallfacerlogic.github.io/gxufz1704/
-## 2.0版本将在8月份公布Lts版本（Alpha：内测 Beta：公测 Cs：准正式 Lts：长期更新）
-## 2.0版本开发进度：Alpha 2.0.010
+## 2.0版本将在8月份公布Beta版本（Alpha：内测 Beta：公测 Cs：准正式 Lts：长期更新）
+## 2.0版本开发进度：Alpha 2.1.052
